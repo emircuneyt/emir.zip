@@ -1,0 +1,12 @@
+{
+  "name": "retro-chaos-site",
+  "version": "1.0.0",
+  "description": "90s maximalist personal website",
+  "scripts": {
+    "start": "eleventy --serve",
+    "build": "eleventy"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^2.0.1"
+  }
+}
