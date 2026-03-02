@@ -24,7 +24,7 @@ title: home
   <div class="flame-divider"></div>
 
   <div class="welcome-section">
-  <h2>Hey there, websurfer — welcome!</h2>
+  <h2>Hey there, welcome!</h2>
   <p>This is my portfolio/CV in a 90’s Neocities coat of paint.</p>
   <p>I’m <strong>{{ site.author }}</strong>, a Senior Security Engineer in Amsterdam focused on AWS cloud security.</p>
   <p>Browse the windows for projects, notes, and the books that shaped how I think.</p>
